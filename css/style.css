@@ -19,6 +19,7 @@ body{
   font-family: 'Fredoka', sans-serif;
   width: 70%;
   margin: 0 auto;
+  max-width: 1800px;
 }
 
 h1{
@@ -62,8 +63,6 @@ ul{
   list-style: none;
   display: inline-block;
   padding-left: 10px;
-  float: left;
-  vertical-align: middle
 }
 
 li{
@@ -75,7 +74,6 @@ li{
 }
 
 strong{
-  font-weight: 600;
   text-transform: uppercase;
 }
 
